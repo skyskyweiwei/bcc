@@ -1,3 +1,3 @@
 # bcc
 test project for git
-I used css to try the tansit pattern and silde pictures.
+I used css to make the transit pattern and slide pictures.
